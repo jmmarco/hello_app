@@ -4,7 +4,7 @@ Create a new rails proejct:
 - `rails new app_name`
 - Open project inside Code Editor
 - Edit `controllers/application_controller`
-- Add the follow code:
+- Add the following code:
 
 ```
 class ApplicationController < ActionController::Base
